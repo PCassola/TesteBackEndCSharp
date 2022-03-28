@@ -1,0 +1,13 @@
+C:\Users\DENNIS\Desktop\PauloCassola\VetorOrdenado\VetorOrdenado\bin\Debug\netcoreapp3.1\VetorOrdenado.exe
+C:\Users\DENNIS\Desktop\PauloCassola\VetorOrdenado\VetorOrdenado\bin\Debug\netcoreapp3.1\VetorOrdenado.deps.json
+C:\Users\DENNIS\Desktop\PauloCassola\VetorOrdenado\VetorOrdenado\bin\Debug\netcoreapp3.1\VetorOrdenado.runtimeconfig.json
+C:\Users\DENNIS\Desktop\PauloCassola\VetorOrdenado\VetorOrdenado\bin\Debug\netcoreapp3.1\VetorOrdenado.runtimeconfig.dev.json
+C:\Users\DENNIS\Desktop\PauloCassola\VetorOrdenado\VetorOrdenado\bin\Debug\netcoreapp3.1\VetorOrdenado.dll
+C:\Users\DENNIS\Desktop\PauloCassola\VetorOrdenado\VetorOrdenado\bin\Debug\netcoreapp3.1\VetorOrdenado.pdb
+C:\Users\DENNIS\Desktop\PauloCassola\VetorOrdenado\VetorOrdenado\obj\Debug\netcoreapp3.1\VetorOrdenado.csproj.AssemblyReference.cache
+C:\Users\DENNIS\Desktop\PauloCassola\VetorOrdenado\VetorOrdenado\obj\Debug\netcoreapp3.1\VetorOrdenado.AssemblyInfoInputs.cache
+C:\Users\DENNIS\Desktop\PauloCassola\VetorOrdenado\VetorOrdenado\obj\Debug\netcoreapp3.1\VetorOrdenado.AssemblyInfo.cs
+C:\Users\DENNIS\Desktop\PauloCassola\VetorOrdenado\VetorOrdenado\obj\Debug\netcoreapp3.1\VetorOrdenado.csproj.CoreCompileInputs.cache
+C:\Users\DENNIS\Desktop\PauloCassola\VetorOrdenado\VetorOrdenado\obj\Debug\netcoreapp3.1\VetorOrdenado.dll
+C:\Users\DENNIS\Desktop\PauloCassola\VetorOrdenado\VetorOrdenado\obj\Debug\netcoreapp3.1\VetorOrdenado.pdb
+C:\Users\DENNIS\Desktop\PauloCassola\VetorOrdenado\VetorOrdenado\obj\Debug\netcoreapp3.1\VetorOrdenado.genruntimeconfig.cache
